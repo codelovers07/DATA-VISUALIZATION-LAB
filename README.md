@@ -48,6 +48,3 @@ The tasks range from simple static plots to dynamic and animated visualizations,
   - pygame (for animation)
 ```
 
----
-
-After pasting, click **"Commit changes"** (green button top right) ✅
